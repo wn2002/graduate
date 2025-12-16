@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5orskODC3LFT45NIJSLL-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF0000;fillColor=none;strokeWidth=2;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="60" width="566" x="131" y="230" as="geometry" />
+        </mxCell>
         <mxCell id="5orskODC3LFT45NIJSLL-9" edge="1" parent="1" source="5orskODC3LFT45NIJSLL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5orskODC3LFT45NIJSLL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -53,6 +56,9 @@
         </mxCell>
         <mxCell id="5orskODC3LFT45NIJSLL-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="5orskODC3LFT45NIJSLL-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#00FF00;" value="" vertex="1">
+          <mxGeometry height="360" width="280" x="30" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
