@@ -7,7 +7,7 @@
         <mxCell id="5orskODC3LFT45NIJSLL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="获取试样" vertex="1">
           <mxGeometry height="40" width="110" x="60" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="5orskODC3LFT45NIJSLL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="获取试样" vertex="1">
+        <mxCell id="5orskODC3LFT45NIJSLL-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="预处理" vertex="1">
           <mxGeometry height="40" width="110" x="280" y="250" as="geometry" />
         </mxCell>
         <mxCell id="5orskODC3LFT45NIJSLL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="编号" vertex="1">
