@@ -47,13 +47,19 @@
           <mxGeometry height="30" width="80" x="315" y="660" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="分析空间相关函数参数对应力敏感性的影响" vertex="1">
-          <mxGeometry height="60" width="180" x="510" y="340" as="geometry" />
+          <mxGeometry height="60" width="180" x="530" y="280" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="整理为论文" vertex="1">
-          <mxGeometry height="40" width="110" x="530" y="460" as="geometry" />
+          <mxGeometry height="40" width="110" x="565" y="400" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="搭建超声背散射螺栓应力测试采集系统" vertex="1">
-          <mxGeometry height="60" width="180" x="550" y="555" as="geometry" />
+          <mxGeometry height="60" width="180" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#007FFF,#FFACAC);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
+          <mxGeometry height="440" width="220" x="510" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#007FFF,#EDEDED);" value="预期成果" vertex="1">
+          <mxGeometry height="30" width="80" x="580" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
