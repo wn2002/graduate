@@ -19,17 +19,17 @@
         <mxCell id="L5BbOfD9iKwnai8BzuWx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="实验法" vertex="1">
           <mxGeometry height="40" width="70" x="55" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="L5BbOfD9iKwnai8BzuWx-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="320" y="180" as="geometry" />
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;深入认识多晶材料超声背散射理论&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="260" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="L5BbOfD9iKwnai8BzuWx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="320" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="L5BbOfD9iKwnai8BzuWx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="440" x="180" y="80" as="geometry" />
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;font&gt;基于超声背散射的螺栓应力测量方法研究&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="420" x="190" y="80" as="geometry" />
         </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ec0909, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
           <mxGeometry height="440" width="170" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#fa0000, #ededed);" value="研究方法" vertex="1">
+          <mxGeometry height="30" width="80" x="50" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
