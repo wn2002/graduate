@@ -1,11 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="29.2.7">
   <diagram name="第 1 页" id="uXAzGvMGdL36Vbk8_CLB">
-    <mxGraphModel dx="1546" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ec0909, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
+          <mxGeometry height="440" width="170" x="5" y="180" as="geometry" />
+        </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="文献研究法" vertex="1">
           <mxGeometry height="40" width="100" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-23" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="L5BbOfD9iKwnai8BzuWx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="259.66666666666674" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="交叉学科研究法" vertex="1">
           <mxGeometry height="40" width="140" x="20" y="320" as="geometry" />
@@ -16,8 +24,14 @@
         <mxCell id="L5BbOfD9iKwnai8BzuWx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="定性分析法" vertex="1">
           <mxGeometry height="40" width="100" x="40" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-33" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="实验法" vertex="1">
           <mxGeometry height="40" width="70" x="55" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-34" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;span&gt;深入认识多晶材料超声背散射理论&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="275" y="230" as="geometry" />
@@ -25,41 +39,98 @@
         <mxCell id="L5BbOfD9iKwnai8BzuWx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;font&gt;基于超声背散射的螺栓应力测量方法研究&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="420" x="190" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="L5BbOfD9iKwnai8BzuWx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ec0909, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="440" width="170" x="10" y="200" as="geometry" />
-        </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#fa0000, #ededed);" value="研究方法" vertex="1">
-          <mxGeometry height="30" width="80" x="50" y="660" as="geometry" />
+          <mxGeometry height="30" width="80" x="50" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-35" edge="1" parent="1" source="gbI4e0RNM9EKBxYZ4xpd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Helvetica;" value="&lt;span style=&quot;&quot;&gt;构建符合螺栓材料晶粒分布的仿真模型&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="265" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-36" edge="1" parent="1" source="gbI4e0RNM9EKBxYZ4xpd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="推导螺栓应力超声背散射数学模型" vertex="1">
           <mxGeometry height="60" width="160" x="275" y="450" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="建立模型与实验数据的反解关系，分析测试系统参数影响" vertex="1">
-          <mxGeometry height="60" width="230" x="240" y="554.5" as="geometry" />
+          <mxGeometry height="60" width="230" x="240" y="550" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#25f609, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="440" width="270" x="220" y="200" as="geometry" />
+          <mxGeometry height="440" width="270" x="220" y="180" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#23f906, #ededed);" value="研究内容" vertex="1">
-          <mxGeometry height="30" width="80" x="315" y="660" as="geometry" />
+          <mxGeometry height="30" width="80" x="315" y="640" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="分析空间相关函数参数对应力敏感性的影响" vertex="1">
-          <mxGeometry height="60" width="180" x="530" y="280" as="geometry" />
+          <mxGeometry height="60" width="180" x="530" y="340" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="整理为论文" vertex="1">
-          <mxGeometry height="40" width="110" x="565" y="400" as="geometry" />
+          <mxGeometry height="40" width="110" x="565" y="460" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="搭建超声背散射螺栓应力测试采集系统" vertex="1">
-          <mxGeometry height="60" width="180" x="530" y="490" as="geometry" />
+          <mxGeometry height="60" width="180" x="530" y="550" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#007FFF,#FFACAC);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
-          <mxGeometry height="440" width="220" x="510" y="200" as="geometry" />
+          <mxGeometry height="440" width="220" x="510" y="180" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#007FFF,#EDEDED);" value="预期成果" vertex="1">
-          <mxGeometry height="30" width="80" x="580" y="660" as="geometry" />
+          <mxGeometry height="30" width="80" x="580" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="L5BbOfD9iKwnai8BzuWx-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="340" as="sourcePoint" />
+            <mxPoint x="270" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-26" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="380" as="sourcePoint" />
+            <mxPoint x="260" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-27" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-28" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-3" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="440" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-29" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-30" edge="1" parent="1" source="L5BbOfD9iKwnai8BzuWx-4" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-37" edge="1" parent="1" source="gbI4e0RNM9EKBxYZ4xpd-13" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-38" edge="1" parent="1" source="gbI4e0RNM9EKBxYZ4xpd-2" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-39" edge="1" parent="1" source="gbI4e0RNM9EKBxYZ4xpd-5" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gbI4e0RNM9EKBxYZ4xpd-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
