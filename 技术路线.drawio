@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="29.2.7">
+  <diagram name="第 1 页" id="uXAzGvMGdL36Vbk8_CLB">
+    <mxGraphModel dx="1546" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="文献研究法" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="交叉学科研究法" vertex="1">
+          <mxGeometry height="40" width="140" x="20" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="仿真分析法" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="定性分析法" vertex="1">
+          <mxGeometry height="40" width="100" x="40" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="实验法" vertex="1">
+          <mxGeometry height="40" width="70" x="55" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="440" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L5BbOfD9iKwnai8BzuWx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#ec0909, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
+          <mxGeometry height="440" width="170" x="10" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
