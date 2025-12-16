@@ -20,7 +20,7 @@
           <mxGeometry height="40" width="70" x="55" y="560" as="geometry" />
         </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="&lt;span&gt;深入认识多晶材料超声背散射理论&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="275" y="260" as="geometry" />
+          <mxGeometry height="60" width="160" x="275" y="230" as="geometry" />
         </mxCell>
         <mxCell id="L5BbOfD9iKwnai8BzuWx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" value="&lt;font&gt;基于超声背散射的螺栓应力测量方法研究&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="420" x="190" y="80" as="geometry" />
@@ -32,19 +32,28 @@
           <mxGeometry height="30" width="80" x="50" y="660" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Helvetica;" value="&lt;span style=&quot;&quot;&gt;构建符合螺栓材料晶粒分布的仿真模型&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="265" y="360" as="geometry" />
+          <mxGeometry height="60" width="180" x="265" y="340" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="推导螺栓应力超声背散射数学模型" vertex="1">
-          <mxGeometry height="60" width="160" x="275" y="460" as="geometry" />
+          <mxGeometry height="60" width="160" x="275" y="450" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="建立模型与实验数据的反解关系，分析测试系统参数影响" vertex="1">
-          <mxGeometry height="60" width="230" x="240" y="560" as="geometry" />
+          <mxGeometry height="60" width="230" x="240" y="554.5" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=light-dark(#25f609, #ffacac);dashed=1;dashPattern=8 8;strokeWidth=2;perimeterSpacing=0;" value="" vertex="1">
           <mxGeometry height="440" width="270" x="220" y="200" as="geometry" />
         </mxCell>
         <mxCell id="gbI4e0RNM9EKBxYZ4xpd-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontColor=light-dark(#23f906, #ededed);" value="研究内容" vertex="1">
           <mxGeometry height="30" width="80" x="315" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="分析空间相关函数参数对应力敏感性的影响" vertex="1">
+          <mxGeometry height="60" width="180" x="510" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="整理为论文" vertex="1">
+          <mxGeometry height="40" width="110" x="530" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gbI4e0RNM9EKBxYZ4xpd-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="搭建超声背散射螺栓应力测试采集系统" vertex="1">
+          <mxGeometry height="60" width="180" x="550" y="555" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
