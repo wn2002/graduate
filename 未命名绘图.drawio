@@ -76,16 +76,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sk4Ht76YnKPNbTa5oV2E-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="粘贴应变片" vertex="1">
-          <mxGeometry height="40" width="100" x="610" y="560" as="geometry" />
+          <mxGeometry height="40" width="100" x="615" y="585" as="geometry" />
         </mxCell>
         <mxCell id="Sk4Ht76YnKPNbTa5oV2E-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" value="获取应力值" vertex="1">
-          <mxGeometry height="40" width="100" x="610" y="640" as="geometry" />
+          <mxGeometry height="40" width="100" x="615" y="665" as="geometry" />
         </mxCell>
         <mxCell id="Sk4Ht76YnKPNbTa5oV2E-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#0066CC;fillColor=none;strokeWidth=2;dashPattern=8 8;direction=south;" value="" vertex="1">
-          <mxGeometry height="160" width="130" x="595" y="540" as="geometry" />
+          <mxGeometry height="160" width="130" x="600" y="565" as="geometry" />
         </mxCell>
         <mxCell id="Sk4Ht76YnKPNbTa5oV2E-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontColor=#0066CC;" value="3 常规应力测量" vertex="1">
-          <mxGeometry height="40" width="190" x="565" y="490" as="geometry" />
+          <mxGeometry height="40" width="190" x="570" y="515" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
